@@ -6,7 +6,10 @@ function CadastroCategoria() {
 
     return(
         <PageDefault>
-            <h1>PAGINA DE CADASTRO DE CATEGORIA</h1>
+                <h1>PAGINA DE CADASTRO DE CATEGORIA</h1>
+                <Link to="/">
+                    Home
+                </Link>
         </PageDefault>
     )
 }
